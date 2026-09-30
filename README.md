@@ -278,13 +278,11 @@ The dashboard focuses on:
 
 # 🖼️ Dashboard Preview
 
-![Pizza Sales Power BI Dashboard](Dashboard/Pizza_Sales_Dashboard.png)
+![Pizza Sales Power BI Dashboard](Pizza-Sales-Analysis/Home.png)
+![Pizza Sales Power BI Dashboard](Pizza-Sales-Analysis/Best-WorstSeller.png)
 
-> **Note:** Place your Power BI dashboard screenshot inside the `Dashboard` folder using the filename:
->
-> `Pizza_Sales_Dashboard.png`
 
----
+
 
 # 🔄 Project Workflow
 
